@@ -1,0 +1,5 @@
+<manifest>
+<remote name="github" fetch="git@github.com"/>
+	<default revision="refs/heads/master" remote="github" sync-j="4"/>
+	<project name="THINKGlobalSchool/Elgg" remote="github" path=""/>
+</manifest>

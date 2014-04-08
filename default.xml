@@ -1,5 +1,62 @@
 <manifest>
-<remote name="github" fetch="git@github.com"/>
-	<default revision="refs/heads/master" remote="github" sync-j="4"/>
-	<project name="THINKGlobalSchool/Elgg" remote="github" path=""/>
+	<remote name="origin" fetch="https://github.com"/>
+	<default revision="master" dest-branch="master" remote="origin" sync-j="1"/>
+	<project name="THINKGlobalSchool/Elgg" path="./"/>
+	<project name="THINKGlobalSchool/wire-extender" path="mod/wire-extender"/>
+	<project name="THINKGlobalSchool/welcome" path="mod/welcome"/>
+	<project name="THINKGlobalSchool/wallposts" path="mod/wallposts"/>
+	<project name="THINKGlobalSchool/typeaheadtags" path="mod/typeaheadtags"/>
+	<project name="THINKGlobalSchool/todos" path="mod/todos"/>
+	<project name="THINKGlobalSchool/thewire" path="mod/thewire"/>
+	<project name="THINKGlobalSchool/tgstheme" path="mod/tgstheme"/>
+	<project name="THINKGlobalSchool/tgscalendars" path="mod/tgscalendars"/>
+	<project name="THINKGlobalSchool/tgsapi" path="mod/tgsapi"/>
+	<project name="THINKGlobalSchool/tgsadmin" path="mod/tgsadmin"/>
+	<project name="THINKGlobalSchool/teacherannotations" path="mod/teacherannotations"/>
+	<project name="THINKGlobalSchool/tagdashboards" path="mod/tagdashboards"/>
+	<project name="THINKGlobalSchool/spotxtheme" path="mod/spotxtheme"/>
+	<project name="THINKGlobalSchool/spotseo" path="mod/spotseo"/>
+	<project name="THINKGlobalSchool/spiritweek" path="mod/spiritweek"/>
+	<project name="THINKGlobalSchool/searchimproved" path="mod/searchimproved"/>
+	<project name="THINKGlobalSchool/schools" path="mod/schools"/>
+	<project name="THINKGlobalSchool/rubrics" path="mod/rubrics"/>
+	<project name="THINKGlobalSchool/rss" path="mod/rss"/>
+	<project name="THINKGlobalSchool/roles" path="mod/roles"/>
+	<project name="THINKGlobalSchool/reportcards" path="mod/reportcards"/>
+	<project name="THINKGlobalSchool/readinglist" path="mod/readinglist"/>
+	<project name="THINKGlobalSchool/publicfilter" path="mod/publicfilter"/>
+	<project name="THINKGlobalSchool/publicdashboard" path="mod/publicdashboard"/>
+	<project name="THINKGlobalSchool/polls" path="mod/polls"/>
+	<project name="THINKGlobalSchool/parentportal" path="mod/parentportal"/>
+	<project name="THINKGlobalSchool/pagesdrafts" path="mod/pagesdrafts"/>
+	<project name="THINKGlobalSchool/pages-extender" path="mod/pages-extender"/>
+	<project name="THINKGlobalSchool/overdrive" path="mod/overdrive"/>
+	<project name="THINKGlobalSchool/newmediadashboard" path="mod/newmediadashboard"/>
+	<project name="THINKGlobalSchool/modules" path="mod/modules"/>
+	<project name="THINKGlobalSchool/messages-extender" path="mod/messages-extender"/>
+	<project name="THINKGlobalSchool/members-extender" path="mod/members-extender"/>
+	<project name="THINKGlobalSchool/launchpad" path="mod/launchpad"/>
+	<project name="THINKGlobalSchool/group-extender" path="mod/group-extender"/>
+	<project name="THINKGlobalSchool/googlesearch" path="mod/googlesearch"/>
+	<project name="THINKGlobalSchool/file-extender" path="mod/file-extender"/>
+	<project name="THINKGlobalSchool/forums" path="mod/forums"/>
+	<project name="THINKGlobalSchool/flickrpublish" path="mod/flickrpublish"/>
+	<project name="THINKGlobalSchool/feedback" path="mod/feedback"/>
+	<project name="THINKGlobalSchool/facebook" path="mod/facebook"/>
+	<project name="THINKGlobalSchool/tgsembed" path="mod/tgsembed"/>
+	<project name="THINKGlobalSchool/contests" path="mod/contests"/>
+	<project name="THINKGlobalSchool/blogconnector" path="mod/blogconnector"/>
+	<project name="THINKGlobalSchool/announcements" path="mod/announcements"/>
+	<project name="THINKGlobalSchool/googleapps" path="mod/googleapps"/>
+	<project name="THINKGlobalSchool/simplekaltura" path="mod/simplekaltura"/>
+	<project name="THINKGlobalSchool/podcasts" path="mod/podcasts"/>
+	<project name="THINKGlobalSchool/bookmarks-extender" path="mod/bookmarks-extender/"/>
+	<project name="THINKGlobalSchool/spiffyactivity" path="mod/spiffyactivity"/>
+	<project name="THINKGlobalSchool/mentions" path="mod/mentions"/>
+	<project name="THINKGlobalSchool/labs" path="mod/labs"/>
+	<project name="THINKGlobalSchool/tidypics" path="mod/tidypics" dest-branch="master"/>
+	<project name="THINKGlobalSchool/nofriends" path="mod/nofriends"/>
+	<project name="THINKGlobalSchool/tgs_disqus" path="mod/tgs_disqus"/>
+	<project name="THINKGlobalSchool/group_tools" path="mod/group_tools"/>
+	<project name="THINKGlobalSchool/tabbed_profile" path="mod/tabbed_profile"/>
 </manifest>

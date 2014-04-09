@@ -59,4 +59,6 @@
 	<project name="THINKGlobalSchool/tgs_disqus" path="mod/tgs_disqus"/>
 	<project name="THINKGlobalSchool/group_tools" path="mod/group_tools"/>
 	<project name="THINKGlobalSchool/tabbed_profile" path="mod/tabbed_profile"/>
+	<project name="jrtilson/Elgg-Google-API-PHP-Client" path="mod/google-api-php-client"/>
+	<project name="Elgg/ecml" path="mod/ecml"/>
 </manifest>

@@ -1,7 +1,6 @@
 <manifest>
 	<remote name="origin" fetch="https://github.com"/>
 	<default revision="master" dest-branch="master" remote="origin" sync-j="1"/>
-	<project name="THINKGlobalSchool/Elgg" path="./"/>
 	<project name="THINKGlobalSchool/wire-extender" path="mod/wire-extender"/>
 	<project name="THINKGlobalSchool/welcome" path="mod/welcome"/>
 	<project name="THINKGlobalSchool/wallposts" path="mod/wallposts"/>

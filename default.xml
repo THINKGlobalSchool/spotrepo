@@ -25,12 +25,9 @@
 	<project name="THINKGlobalSchool/readinglist" path="mod/readinglist"/>
 	<project name="THINKGlobalSchool/publicfilter" path="mod/publicfilter"/>
 	<project name="THINKGlobalSchool/publicdashboard" path="mod/publicdashboard"/>
-	<project name="THINKGlobalSchool/polls" path="mod/polls"/>
 	<project name="THINKGlobalSchool/parentportal" path="mod/parentportal"/>
 	<project name="THINKGlobalSchool/pagesdrafts" path="mod/pagesdrafts"/>
-	<project name="THINKGlobalSchool/pages-extender" path="mod/pages-extender"/>
 	<project name="THINKGlobalSchool/overdrive" path="mod/overdrive"/>
-	<project name="THINKGlobalSchool/newmediadashboard" path="mod/newmediadashboard"/>
 	<project name="THINKGlobalSchool/modules" path="mod/modules"/>
 	<project name="THINKGlobalSchool/messages-extender" path="mod/messages-extender"/>
 	<project name="THINKGlobalSchool/members-extender" path="mod/members-extender"/>
@@ -57,8 +54,8 @@
 	<project name="THINKGlobalSchool/nofriends" path="mod/nofriends"/>
 	<project name="THINKGlobalSchool/tgs_disqus" path="mod/tgs_disqus"/>
 	<project name="THINKGlobalSchool/group_tools" path="mod/group_tools"/>
-	<project name="THINKGlobalSchool/tabbed_profile" path="mod/tabbed_profile"/>
 	<project name="jrtilson/Elgg-Google-API-PHP-Client" path="mod/google-api-php-client"/>
 	<project name="THINKGlobalSchool/jqueryfileupload" path="mod/jqueryfileupload"/>
 	<project name="Elgg/ecml" path="mod/ecml"/>
+	<project name="ewinslow/elgg-https" path="mod/elgg-https" />
 </manifest>

@@ -7,6 +7,7 @@
 	<project name="THINKGlobalSchool/typeaheadtags" path="mod/typeaheadtags"/>
 	<project name="THINKGlobalSchool/todos" path="mod/todos"/>
 	<project name="THINKGlobalSchool/thewire" path="mod/thewire"/>
+	<project name="THINKGlobalSchool/tgsutilities" path="mod/tgsutilities"/>
 	<project name="THINKGlobalSchool/tgstheme" path="mod/tgstheme"/>
 	<project name="THINKGlobalSchool/tgscalendars" path="mod/tgscalendars"/>
 	<project name="THINKGlobalSchool/tgsapi" path="mod/tgsapi"/>
